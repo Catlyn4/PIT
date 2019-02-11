@@ -1,0 +1,30 @@
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\bin\Debug\Student.exe
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\bin\Debug\Student.pdb
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\obj\x86\Debug\Student.Form1.resources
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\obj\x86\Debug\Student.exe
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\obj\x86\Debug\Student.pdb
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\bin\Debug\Student.accdb
+C:\Users\Via Marie\Documents\PIT\PIT_MANABO\Student\Student\bin\Debug\Student.exe.config
+E:\PIT_MANABO\Student\Student\bin\Debug\Student.exe.config
+E:\PIT_MANABO\Student\Student\obj\x86\Debug\Student.exe
+E:\PIT_MANABO\Student\Student\obj\x86\Debug\Student.pdb
+G:\_\PIT\Student\Student\bin\Debug\Student.exe.config
+G:\_\PIT\Student\Student\obj\x86\Debug\Student.exe
+G:\_\PIT\Student\Student\obj\x86\Debug\Student.pdb
+G:\_\PIT\Student\Student\bin\Debug\Student.accdb
+G:\_\PIT\Student\Student\bin\Debug\Student.exe
+G:\_\PIT\Student\Student\bin\Debug\Student.pdb
+G:\_\PIT\Student\Student\obj\x86\Debug\Student.Form1.resources
+G:\_\PIT\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+G:\_\PIT\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache
+D:\PIT\Student\Student\bin\Debug\Student.exe.config
+D:\PIT\Student\Student\obj\x86\Debug\Student.exe
+D:\PIT\Student\Student\obj\x86\Debug\Student.pdb
+D:\PIT\Student\Student\bin\Debug\Student.accdb
+D:\PIT\Student\Student\bin\Debug\Student.exe
+D:\PIT\Student\Student\bin\Debug\Student.pdb
+D:\PIT\Student\Student\obj\x86\Debug\Student.Form1.resources
+D:\PIT\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\PIT\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache
